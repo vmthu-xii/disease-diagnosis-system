@@ -1,4 +1,4 @@
-# Project ADIP - Diagnostic and Prognostic System
+# ADIP's project - Diagnostic and Prognostic System
 
 This project was developed as a project for the Applications of Digital Image and Video Processing course.
 
